@@ -28,5 +28,5 @@ This system was originally made for [Devin](https://github.com/HiItsDevin), now 
 It is very easy to port this to other distros/DMs. The entire thing revolves around the CLI one-liner `obs --startreplaybuffer --minimize-to-tray`
 
 ## FAQ
-Q: I use Discord. I don't want streamer mode being enabled every time I restart my computer
+Q: I use Discord. I don't want streamer mode being enabled every time I restart my computer  
 A: Disable it under User Settings -> Streamer Mode -> Uncheck "Automatically enable/disable"
