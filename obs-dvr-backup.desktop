@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=OBS DVR Launcher
+Exec=obs --startreplaybuffer --minimize-to-tray
+Icon=com.obsproject.Studio
+Type=Application
+Categories=GTK;GNOME;Utility;
